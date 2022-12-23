@@ -3,12 +3,12 @@ package main
 import (
 	"fmt"
 
-	"github.com/Venkatesh-8203/Calculator/Add"
+	"github.com/Venkatesh-8203/CalculatorNew/Add"
 
-	AddOperation "github.com/Venkatesh-8203/Calculator/Add"
-	DivOperation "github.com/Venkatesh-8203/Calculator/Division"
-	MulOperation "github.com/Venkatesh-8203/Calculator/Multiply"
-	SubOperation "github.com/Venkatesh-8203/Calculator/Subtract"
+	AddOperation "github.com/Venkatesh-8203/CalculatorNew/Add"
+	DivOperation "github.com/Venkatesh-8203/CalculatorNew/Division"
+	MulOperation "github.com/Venkatesh-8203/CalculatorNew/Multiply"
+	SubOperation "github.com/Venkatesh-8203/CalculatorNew/Subtract"
 )
 
 func main() {
